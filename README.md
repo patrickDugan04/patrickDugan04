@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👯 In my free time I like to come up with fun math projects and write proofs that can be found on my website
 
-### 👋 [Look at my proofs!!!](patricktdugan.com) 👋
+### 👋 [Look at my proofs!!!](http://www.patricktdugan.com) 👋
 
 
 
