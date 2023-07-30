@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👯 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
-🔭 Currently working on a blogpost about repeating sequences and one about an intersction of group theory and Dirichlet Convolutions
+🔭 Working on a blogpost about repeating sequences and one about an intersction of group theory and Dirichlet Convolutions
 
 
 ### 🤔 Here are some of my recent blogposts 🤔
