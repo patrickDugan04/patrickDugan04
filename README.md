@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Upenn Frehsmen intrested in Math and CS
 
-🔭 I am intrested in algorithems and number theory and really all other fun pure math topics
+🌱 UPenn Freshman interested in Math and CS
 
-👯 In my free time I like to come up with fun math projects and write proofs that can be found on my website
+🔭 I have experience in CS and proving things in number theory, complex analysis, and abstract algebra. 
 
+👯 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 ### 👋 [Look at my proofs!!!](http://www.patricktdugan.com) 👋
 
 
