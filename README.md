@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 👯 In my free time I like to come up with fun math projects and write proofs that can be found on my website
 
+### 👋 Look at my proofs!!! patricktdugan.com 👋
+
 
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=patrickDugan04&theme=tokyonight&layout=compact&count_private=true)
