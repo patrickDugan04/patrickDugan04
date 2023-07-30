@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**patrickDugan04/patrickDugan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Snooder/Snooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 Upenn Frehsmen intrested in Math and CS
+
+🔭 I am intrested in algorithems and number theory and really all other fun pure math topics
+
+
+
+![Matt's github stats](https://github-readme-stats.vercel.app/api?username=patrickDugan04&theme=tokyonight&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickDugan04&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
