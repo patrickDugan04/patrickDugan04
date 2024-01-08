@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 👯 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
-🔭 Working on a blogpost about repeating sequences and one about an intersction of group theory and Dirichlet Convolutions
+🔭 Working on a blogpost about repeating sequences and one about a geenralization of the mobius function on non transitive relations
+
+✨ My favotire textbook is "Algebra" by Michael Artin
 
 
 ### 🤔 Here are some of my recent blogposts 🤔
