@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 Currently reading up on Galois Theory, Miscellaneous Algebra Topics, and Complex Analysis
 
-👯 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
+💭 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
 🔭 Working on a blogpost about generalizing the mobius function on non transitive relations
 
