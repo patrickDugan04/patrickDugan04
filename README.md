@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Currently reading up on Galois Theory, Miscellaneous Algebra Topics, and Complex Analysis
+🌱 Currently reading up on Galois Theory, Matroid/Lattice Theory, and Miscellaneous Algebra Topics
 
 💭 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
-🔭 Working on a blogpost about generalizing the mobius function on non transitive relations
+🔭 Working on a blogpost about proving bounds on solutions to polynomails relating to the mobius function on arbitrary DAGs
 
 ✨ My favotire textbook is "Algebra" by Michael Artin
 
