@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💭 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
-🔭 Working on a blogpost about proving bounds on solutions to polynomails relating to the mobius function on arbitrary DAGs
+🔭 Working on a blogpost about proving bounds on solutions to polynomials relating to the mobius function on arbitrary DAGs
 
 ✨ My favotire textbook is "Algebra" by Michael Artin
 
