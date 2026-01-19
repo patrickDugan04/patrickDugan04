@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💭 In my free time, I like to come up with interesting math projects and proofs that can be found on my website
 
-🔭 Working on a blogpost about proving bounds on solutions to polynomials relating to the mobius function on arbitrary DAGs
+🔭 Currently working on publishing a paper that develops novel solution-bounding techniques for chain polynomials of arbitrary posets and DAGs. In particular, this work establishes new results on the solutions of chain polynomials for geometric lattices, making progress on several open problems in the area.
 
 ✨ My favotire textbook is "Algebra" by Michael Artin
 
